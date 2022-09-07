@@ -8,9 +8,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        println("CRistian")
-        println("Gonzalo")
-        println("Perez4")
+        println("MAASTERCristian")
+        println("MASTERGonzalo")
+        println("MASTERPerez")
     }
-    println("RAmpelini")
+    println("MASTERRampelini")
 }
